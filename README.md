@@ -9,8 +9,9 @@ English translation(By machine translator) is available below!
 飽きの来ないデザインを目指したかったので、Caffeine(カフェイン 眠気覚まし)です!  
 名称変更の理由は、ブラウザーと混同しないようにするためです!  
 
-このスタイルシートにはほとんど制約がなく、自由度の高い横茶横葉Aライセンスが適用されます。  
+このスタイルシートにはほとんど制約がなく、自由度の高い横茶横葉AライセンスまたはMITライセンスが適用されます。  
 https://yokochayokoha.github.io/alicense  
+ (この成果物に関してはMITライセンス、横茶横葉のAライセンスのどちらかお好きな方をお選びいただけます。)  
 実装方法から活用例、チートシートまで下にいろいろ書いておきましたのでご自由にご活用ください!  
 ### 大切なお知らせ  
 色々変更を加えすぎたので、この指示通りに使ってもうまくいかない可能性があります。その場合はドキュメンテーションの更新をお待ちいただくか、各リリースページ付属のBasicTemplateを御利用下さい!(時間があればいつか書き足します...)  
@@ -122,8 +123,9 @@ The good point is that you can easily add color to your website without much eff
 (Please note that this repository may disappear without notice, so I recommend uploading it to your server instead of directly linking to it when using it.)  
 
 
-This stylesheet is subject to the Y.Yokoha A License, which imposes almost no restrictions and offers high freedom.  
+This stylesheet is subject to the Y.Yokoha A License or MIT License, which imposes almost no restrictions and offers high freedom.  
 https://yokochayokoha.github.io/alicense  
+This product is multi licensed. You can choose which license you want to apply.  
 I've written down various instructions, usage examples, and a cheat sheet below, so feel free to make use of them!
 ## IMPORTANT NOTICE  
 I have made too significant changes in Rev 3.0 and further explanatory notes are required.   

@@ -15,20 +15,20 @@
 
 実装方法から活用例、チートシート等を掲載いたしました。ご自由にご活用ください!  
 
-# お知らせ  
-各種画像は現在準備中です。  
-Place imgs here 等の文章は無視して頂きますようお願いいたします。  
-    　横茶横葉
 ## プロモーションと実装例  
-Place imgs here  
+![pr1](rei1.png)  
 CaffeineCSSは**丸角**、**stem(茎 白い線)**によるdiv要素の連結、**葉っぱ型のdiv要素デザイン**が特徴のCSSです。カラーリングもやわらかい色を採用しました。  
-Place imgs here  
+
+![compactleaves](rei4.png)  
 div要素内コンテンツは<u>画面サイズに応じて自動的にマージンやサイズが調整</u>され、<u>div要素に何もない場合はコンパクトな葉っぱの形に折りたたまれます。</u>  
-Place imgs here  
+
+![color](rei.png)  
 **色の指定も必要ありません。** A~Zまでdivにclassを指定すれば、プリセット色で着色されます。<small>(ご自身でstyleタグを使用して色を変更することも可能です。)</small>  
-Place imgs here  
+
+![marks](rei3.png)  
 このCSSには、テキストをあたかも画像で作られたマークのように扱えるプリセットが含まれています。通常、画像に文字を書き込んでマークとして扱うことが一般的ですが、このCSSでは文字を選択不可能にし、丸角で色付きのdiv要素内に格納することで、**画像なしでマークのような表示が可能**になります。  
 <small>注: 「画像に文字を書き込んで使用するのではなく、文字をそのままスタイル付きの要素としてマークのように扱える」という意味です。</small>  
+
 *********
 ### 実際の例  
 
@@ -68,7 +68,7 @@ Tips
 </div>
 ```  
 プレビュー(ブラウザーやCSSリビジョンによって異なる場合があります。)    
-Place img here  
+![タイトル](rei.png)  
 *****************
 ### コンテンツ格納div要素のデコレーション  
 コンテンツはclass指定付きのdiv要素を使用して格納します。  
@@ -86,7 +86,7 @@ B D F H...(偶数番目の大文字アルファベット): 標準的な葉型
 </div>
 ```  
 プレビュー(ブラウザーやCSSリビジョンによって異なる場合があります。)    
-Place img here  
+![タイトル](rei.png)  
 ******************
 ### stem(茎 白い線)  
 CaffeineCSSにおいて、stemはdiv要素同士をつなぐ白線の名称です。  
@@ -99,6 +99,8 @@ CaffeineCSSにおいて、stemはdiv要素同士をつなぐ白線の名称で�
 ```
 これはコンテンツ配置を視覚的にわかりやすく示すために使用されます。  
 <u>表示崩れを避けるため、p要素には何も入力しません。</u>  
+プレビュー  
+![stem](rei2.png)
 ******************
 ### マーク化  
 テキストを選択不能なミニサイズのマークに変換することができます。  
@@ -453,7 +455,7 @@ Modified from [Blank HTML Template](https://github.com/yokonoha/blank_HTML_Templ
       <p><small>このページでは<a href="https://github.com/yokonoha/Caffeine_CSS">CaffeineCSS</a>を使用しています。</small></p>  
     </footer>
 ```
-CaffeineCSS & Documentations made by Y.Yokoha.
+CaffeineCSS & Documentations made by Y.Yokoha.  
 ©2024-2025 横茶横葉 All Rights Reserved.  
 ©2024-2025 横葉の工房 All Rights Reserved.  
 

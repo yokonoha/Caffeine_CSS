@@ -1,5 +1,7 @@
-# Caffeine_CSS  
-## 2024/10/21 名称変更を行いました。  
+# Caffeine_CSS 
+ 
+# 現在ドキュメンテーション編集中です!更新までお待ち下さい！/The brand new documentation is now editing.Please wait!  
+
 ![見た目大体こんな感じっていう画像](./hanrei.png)  
 English translation(By machine translator) is available below!  
 どなたでも気軽に利用(流用)できる横茶横葉のサイトのスタイルシートです!  

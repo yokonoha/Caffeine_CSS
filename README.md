@@ -138,7 +138,7 @@ class値は以下6種から選べます。
 (MITライセンスを選択された方は、MITライセンスの一般的な表記方法に従ってください。)  
 ```footersample.html
 <footer>
-<p><small>このページでは<a href="https://github.com/Yokonoha/Caffeine_CSS">CaffeineCSS</a>を使用しています。</small></p>  
+<p><small>このページでは<a href="https://github.com/Yokonoha/Caffeine_CSS" id="interchangeablecssprofiles">CaffeineCSS</a>を使用しています。</small></p>  
 </footer>
 ```
 横茶横葉Aライセンスを選択された方で、デザインの関係上この権利表記文が障害となる場合、省略を正式に可とします。  

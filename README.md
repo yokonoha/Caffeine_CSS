@@ -322,22 +322,7 @@ Modified from [Blank HTML Template](https://github.com/yokonoha/blank_HTML_Templ
       <!-- ここに要素を挿入-->
                          
       </div>
-      <div class="cnt"><p></p></div>
-      <div class="cnt"><p></p></div>
-      <div class="cnt"><p></p></div>
-      <div class="cnt"><p></p></div>
-      <div class="M">  
-       <!-- ここに要素を挿入-->
-                          
-       </div>
-    <div class="cnt"><p></p></div>
-    <div class="cnt"><p></p></div>
-    <div class="cnt"><p></p></div>
-    <div class="cnt"><p></p></div>
-    <div class="L">  
-  <!-- ここに要素を挿入-->
 
-    </div>
     <div class="cnt"><p></p></div>
     <div class="cnt"><p></p></div>
     <div class="cnt"><p></p></div>
@@ -452,7 +437,7 @@ Modified from [Blank HTML Template](https://github.com/yokonoha/blank_HTML_Templ
     </div>
         <footer>
 
-      <p><small>このページでは<a href="https://github.com/yokonoha/Caffeine_CSS">CaffeineCSS</a>を使用しています。</small></p>  
+      <p><small>このページでは<a href="https://github.com/yokonoha/Caffeine_CSS"　id="interchangeablecssprofiles">CaffeineCSS</a>を使用しています。</small></p>  
     </footer>
 ```
 CaffeineCSS & Documentations made by Y.Yokoha.  

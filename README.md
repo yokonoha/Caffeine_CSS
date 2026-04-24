@@ -1,3 +1,4 @@
+更新終了済み。後継CSSのFSOverrideはコチラ=> https://github.com/yokonoha/fsoverride  
 ### CaffeineCSS (Rev.4) -柔らかな印象のやさしいスタイルシート    
 CaffeineCSSは、商用非商用問わずどなたでも簡単に利用できる**無料のスタイルシート**です。  
 サイトを**明るい色調**と**柔らかなデザイン**で彩り、**やさしい印象のサイト**を簡単に実現できます。  
